@@ -127,7 +127,7 @@ public class OpExample {
 		String str1 = "num은 30보다 크다";
 		String str2 = "num은 30 이하다";
 		
-		String result = num > 30 ? str1 : str2
+		String result = num > 30 ? str1 : str2;
 		System.out.println(result);
 	}
 
