@@ -7,7 +7,7 @@ public class ExampleRun {
 	public static void main(String[] args) {
 		OpExample ex = new OpExample();
 		// OpExample이라는 설계도를 보고 OpExample 형태의 ex를 만들어냄
-		ex.ex8(); // 호출
+		//ex.ex8(); // 호출
 	}
 
 }
